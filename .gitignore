@@ -131,3 +131,4 @@ dist
 
 
 *.qr.png
+package-lock.json
